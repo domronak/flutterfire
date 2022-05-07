@@ -12,7 +12,7 @@ To learn more about Firebase, please visit the [Firebase website](https://fireba
 
 To get started with FlutterFire, please [see the documentation](https://firebase.flutter.dev/docs/overview).
 
-## Usage
+## Usages
 
 To use this plugin, please visit the [Core Usage documentation](https://firebase.flutter.dev/docs/core/usage)
 
